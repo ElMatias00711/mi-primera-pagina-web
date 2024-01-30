@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Matías</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlace a tu archivo de estilos CSS -->
+</head>
+<body>
+    <header>
+        <h1>Matías</h1>
+        <p>Bienvenido a mi portafolio personal</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#acerca">Acerca de mí</a></li>
+            <li><a href="#proyectos">Proyectos</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <section id="inicio">
+        <h2>Inicio</h2>
+        <p>¡Hola! Soy Matías, un apasionado por los video juegos. Bienvenido a mi mundo digital donde comparto mis proyectos y experiencias.</p>
+    </section>
+
+    <section id="acerca">
+        <h2>Acerca de mí</h2>
+        <p>Soy un chileno de 13 años con un espíritu inquieto. Mi curiosidad y deseo de aprender me impulsan a explorar el mundo que me rodea. [Añade más detalles sobre ti, tus intereses, etc.]</p>
+    </section>
+
+    <section id="proyectos">
+        <h2>Proyectos</h2>
+        <ul>
+            <li>
+                <h3>Proyecto 1</h3>
+                <p>Descripción breve del proyecto 1.</p>
+            </li>
+            <li>
+                <h3>Proyecto 2</h3>
+                <p>Descripción breve del proyecto 2.</p>
+            </li>
+            <!-- Agrega más proyectos aquí -->
+        </ul>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>¡Me encantaría estar en contacto contigo! Puedes escribirme a matias.santibanez.gomez@gmail.com o encontrarme en mis redes como ElMatias00711
+            <section id="Mi apariencia">
+                <img src="file:///C:/Users/matia/Downloads/c55860d1-f6b0-4b15-b9e5-608b150a116f.jpeg" 
+            </section>
